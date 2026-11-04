@@ -1,0 +1,260 @@
+{
+ "date": "2026-11-04",
+ "timezone": "America/New_York",
+ "built_utc": "2026-11-04T12:39",
+ "groups_left_after_today": 108,
+ "slots": [
+  {
+   "slot": 0,
+   "type": "carousel",
+   "time_et": "07:00",
+   "time_utc": "2026-11-04T12:00",
+   "post_id": "2026-11-04-c01",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-002",
+    "2026-10-22-S2-008",
+    "2026-10-22-S3-004",
+    "2026-10-22-S4-010",
+    "2026-10-22-S5-009"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c01/1_2026-10-22-S1-002.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c01/2_2026-10-22-S2-008.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c01/3_2026-10-22-S3-004.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c01/4_2026-10-22-S4-010.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c01/5_2026-10-22-S5-009.jpg"
+    }
+   ],
+   "caption": "If your calendar is booked three weeks out, block one empty evening this week. Swipe →\n\nBack-to-back plans can leave no room to breathe. Protecting a single open evening gives busy women a place to recover, and it is easier to defend than a vague plan to slow down someday.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#overbookedcalendar #protectyourtime #schedulerest #busywoman #overwhelm"
+  },
+  {
+   "slot": 1,
+   "type": "reel",
+   "time_et": "08:30",
+   "time_utc": "2026-11-04T13:30",
+   "post_id": "2026-11-04-r01",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-026",
+    "2026-10-22-S2-027",
+    "2026-10-22-S3-032",
+    "2026-10-22-S4-040",
+    "2026-10-22-S5-002"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-r01.mp4",
+   "caption": "If you sit at the back so nobody notices, take a seat one row closer next time.\n\nWhere you sit sends yourself a message. Moving one row forward is a low-pressure way for women who play small to practice being seen, and it makes speaking up feel a little less far away.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#speakupmore #visibilityatwork #smallbravesteps #confidencepractice #confidence"
+  },
+  {
+   "slot": 2,
+   "type": "carousel",
+   "time_et": "10:00",
+   "time_utc": "2026-11-04T15:00",
+   "post_id": "2026-11-04-c02",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-051",
+    "2026-10-22-S2-061",
+    "2026-10-22-S3-045",
+    "2026-10-22-S4-049",
+    "2026-10-22-S5-003"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c02/1_2026-10-22-S1-051.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c02/2_2026-10-22-S2-061.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c02/3_2026-10-22-S3-045.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c02/4_2026-10-22-S4-049.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c02/5_2026-10-22-S5-003.jpg"
+    }
+   ],
+   "caption": "If you set goals and forget them by March, put your top goal where you'll see it daily. Swipe →\n\nOut of sight often means out of mind. A visible reminder keeps a goal alive past the first burst of motivation and helps busy women keep their focus where they said it mattered.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#goalsfade #keepgoalsvisible #goalreminder #stayontrack #goalsetting"
+  },
+  {
+   "slot": 3,
+   "type": "single",
+   "time_et": "11:30",
+   "time_utc": "2026-11-04T16:30",
+   "post_id": "2026-11-04-s01",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-004"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-s01_2026-10-22-S1-004.jpg",
+   "caption": "If you can't enjoy a quiet moment, sit for three minutes with no phone.\n\nQuiet can feel uncomfortable when your mind is always running ahead. Three phone-free minutes teaches your nervous system that stillness is safe, a gentle start for women who are always on.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#cantrelax #enjoyquiet #phonefreebreak #slowdown #overwhelm"
+  },
+  {
+   "slot": 4,
+   "type": "reel",
+   "time_et": "13:00",
+   "time_utc": "2026-11-04T18:00",
+   "post_id": "2026-11-04-r02",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-076",
+    "2026-10-22-S2-070",
+    "2026-10-22-S3-086",
+    "2026-10-22-S4-069",
+    "2026-10-22-S5-004"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-r02.mp4",
+   "caption": "If your job feels fine but flat, write three moments you felt most alive.\n\nWhen work is fine but flat, the answer is often in the details. Noticing when you felt energized helps women in a quiet career rut spot what to move toward without a dramatic leap.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#careerrut #flatatwork #findwhatenergizesyou #careerclarity #womencareer"
+  },
+  {
+   "slot": 5,
+   "type": "carousel",
+   "time_et": "14:30",
+   "time_utc": "2026-11-04T19:30",
+   "post_id": "2026-11-04-c03",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-003",
+    "2026-10-22-S2-007",
+    "2026-10-23-S3-009",
+    "2026-10-22-S4-017",
+    "2026-10-22-S5-013"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c03/1_2026-10-22-S1-003.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c03/2_2026-10-22-S2-007.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c03/3_2026-10-23-S3-009.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c03/4_2026-10-22-S4-017.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c03/5_2026-10-22-S5-013.jpg"
+    }
+   ],
+   "caption": "If you start five things and finish none, pick one and park the other four. Swipe →\n\nStarting is easy when everything feels important. Choosing one task to finish today, and writing the rest on a parking list, takes the pressure off a scattered mind without losing any ideas.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#toomanyprojects #finishonething #scatteredfocus #priorities #overwhelm"
+  },
+  {
+   "slot": 6,
+   "type": "reel",
+   "time_et": "16:00",
+   "time_utc": "2026-11-04T21:00",
+   "post_id": "2026-11-04-r03",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-027",
+    "2026-10-22-S2-029",
+    "2026-10-22-S3-089",
+    "2026-10-22-S4-027",
+    "2026-10-22-S5-006"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-r03.mp4",
+   "caption": "If you wait for others to go first, offer your thought first, just once this week.\n\nWaiting can feel safe, but it hides good ideas. Choosing one moment to speak first builds trust in your own voice and shows you the room usually welcomes it more than you expect.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#speakfirst #shareideas #confidenceatwork #findyourvoice #confidence"
+  },
+  {
+   "slot": 7,
+   "type": "carousel",
+   "time_et": "17:30",
+   "time_utc": "2026-11-04T22:30",
+   "post_id": "2026-11-04-c04",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-052",
+    "2026-10-22-S2-050",
+    "2026-10-22-S3-060",
+    "2026-10-22-S4-098",
+    "2026-10-22-S5-007"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c04/1_2026-10-22-S1-052.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c04/2_2026-10-22-S2-050.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c04/3_2026-10-22-S3-060.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c04/4_2026-10-22-S4-098.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c04/5_2026-10-22-S5-007.jpg"
+    }
+   ],
+   "caption": "If your goals compete with each other, rank them and fund only the top one. Swipe →\n\nTrying to move every goal at once spreads your time thin. Ranking them and giving your best energy to one lets ambitious women make real progress instead of tiny gains everywhere.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#toomanygoals #prioritizegoals #focusononegoal #goalsetting #habits"
+  },
+  {
+   "slot": 8,
+   "type": "reel",
+   "time_et": "19:00",
+   "time_utc": "2026-11-05T00:00",
+   "post_id": "2026-11-04-r04",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-077",
+    "2026-10-22-S2-080",
+    "2026-10-22-S3-080",
+    "2026-10-22-S4-072",
+    "2026-10-22-S5-008"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-r04.mp4",
+   "caption": "If you're going back to school in your thirties, name one reason that will carry you through.\n\nA clear reason keeps you going when classes meet late nights. Writing it down helps women who return to study as adults hold onto their purpose during the harder weeks.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#adultlearner #backtoschool #careerchangestudy #staymotivated #womencareer"
+  },
+  {
+   "slot": 9,
+   "type": "single",
+   "time_et": "20:30",
+   "time_utc": "2026-11-05T01:30",
+   "post_id": "2026-11-04-s02",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-028"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-s02_2026-10-22-S1-028.jpg",
+   "caption": "If you rewrite a message five times, send it after the second draft.\n\nOver-editing is a sign of fear, not quality. Setting a limit of two drafts helps careful women practice trusting their words and see that a good-enough message gets a perfectly good reply.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#overthinkmessages #goodenough #sendtheemail #trustyourself #confidence"
+  },
+  {
+   "slot": 10,
+   "type": "none",
+   "time_et": "22:00",
+   "time_utc": "2026-11-05T03:00"
+  }
+ ]
+}
