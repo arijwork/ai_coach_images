@@ -6,7 +6,7 @@
  "slots": [
   {
    "slot": 0,
-   "type": "done",
+   "type": "carousel",
    "time_et": "07:00",
    "time_utc": "2026-11-04T12:00",
    "post_id": "2026-11-04-c01",
@@ -40,13 +40,11 @@
      "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-c01/5_2026-10-22-S5-009.jpg"
     }
    ],
-   "caption": "If your calendar is booked three weeks out, block one empty evening this week. Swipe →\n\nBack-to-back plans can leave no room to breathe. Protecting a single open evening gives busy women a place to recover, and it is easier to defend than a vague plan to slow down someday.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#overbookedcalendar #protectyourtime #schedulerest #busywoman #overwhelm",
-   "posted_type": "carousel",
-   "posted_note": "test post 2026-11-04 by slot override"
+   "caption": "If your calendar is booked three weeks out, block one empty evening this week. Swipe →\n\nBack-to-back plans can leave no room to breathe. Protecting a single open evening gives busy women a place to recover, and it is easier to defend than a vague plan to slow down someday.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#overbookedcalendar #protectyourtime #schedulerest #busywoman #overwhelm"
   },
   {
    "slot": 1,
-   "type": "done",
+   "type": "reel",
    "time_et": "08:30",
    "time_utc": "2026-11-04T13:30",
    "post_id": "2026-11-04-r01",
@@ -59,9 +57,7 @@
     "2026-10-22-S5-002"
    ],
    "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-r01.mp4",
-   "caption": "If you sit at the back so nobody notices, take a seat one row closer next time.\n\nWhere you sit sends yourself a message. Moving one row forward is a low-pressure way for women who play small to practice being seen, and it makes speaking up feel a little less far away.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#speakupmore #visibilityatwork #smallbravesteps #confidencepractice #confidence",
-   "posted_type": "reel",
-   "posted_note": "test post 2026-11-04 by slot override"
+   "caption": "If you sit at the back so nobody notices, take a seat one row closer next time.\n\nWhere you sit sends yourself a message. Moving one row forward is a low-pressure way for women who play small to practice being seen, and it makes speaking up feel a little less far away.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#speakupmore #visibilityatwork #smallbravesteps #confidencepractice #confidence"
   },
   {
    "slot": 2,
@@ -103,7 +99,7 @@
   },
   {
    "slot": 3,
-   "type": "done",
+   "type": "single",
    "time_et": "11:30",
    "time_utc": "2026-11-04T16:30",
    "post_id": "2026-11-04-s01",
@@ -112,9 +108,7 @@
     "2026-10-22-S1-004"
    ],
    "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-s01_2026-10-22-S1-004.jpg",
-   "caption": "If you can't enjoy a quiet moment, sit for three minutes with no phone.\n\nQuiet can feel uncomfortable when your mind is always running ahead. Three phone-free minutes teaches your nervous system that stillness is safe, a gentle start for women who are always on.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#cantrelax #enjoyquiet #phonefreebreak #slowdown #overwhelm",
-   "posted_type": "single",
-   "posted_note": "test post 2026-11-04 by slot override"
+   "caption": "If you can't enjoy a quiet moment, sit for three minutes with no phone.\n\nQuiet can feel uncomfortable when your mind is always running ahead. Three phone-free minutes teaches your nervous system that stillness is safe, a gentle start for women who are always on.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#cantrelax #enjoyquiet #phonefreebreak #slowdown #overwhelm"
   },
   {
    "slot": 4,
