@@ -103,7 +103,7 @@
   },
   {
    "slot": 3,
-   "type": "single",
+   "type": "done",
    "time_et": "11:30",
    "time_utc": "2026-11-04T16:30",
    "post_id": "2026-11-04-s01",
@@ -112,7 +112,9 @@
     "2026-10-22-S1-004"
    ],
    "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-04/2026-11-04/2026-11-04-s01_2026-10-22-S1-004.jpg",
-   "caption": "If you can't enjoy a quiet moment, sit for three minutes with no phone.\n\nQuiet can feel uncomfortable when your mind is always running ahead. Three phone-free minutes teaches your nervous system that stillness is safe, a gentle start for women who are always on.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#cantrelax #enjoyquiet #phonefreebreak #slowdown #overwhelm"
+   "caption": "If you can't enjoy a quiet moment, sit for three minutes with no phone.\n\nQuiet can feel uncomfortable when your mind is always running ahead. Three phone-free minutes teaches your nervous system that stillness is safe, a gentle start for women who are always on.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#cantrelax #enjoyquiet #phonefreebreak #slowdown #overwhelm",
+   "posted_type": "single",
+   "posted_note": "posted 2026-11-04 13:07 UTC by slot override (exec 81e7d5d2)"
   },
   {
    "slot": 4,
