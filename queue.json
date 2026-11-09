@@ -1,0 +1,260 @@
+{
+ "date": "2026-11-09",
+ "timezone": "America/New_York",
+ "built_utc": "2026-11-09T00:54",
+ "groups_left_after_today": 70,
+ "slots": [
+  {
+   "slot": 0,
+   "type": "carousel",
+   "time_et": "07:00",
+   "time_utc": "2026-11-09T12:00",
+   "post_id": "2026-11-09-c01",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-018",
+    "2026-10-22-S2-012",
+    "2026-10-22-S3-013",
+    "2026-10-22-S4-022",
+    "2026-10-22-S5-049"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c01/1_2026-10-22-S1-018.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c01/2_2026-10-22-S2-012.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c01/3_2026-10-22-S3-013.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c01/4_2026-10-22-S4-022.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c01/5_2026-10-22-S5-049.jpg"
+    }
+   ],
+   "caption": "If you can't remember what you did today, jot down three things before bed. Swipe →\n\nA busy day can blur until it feels like nothing happened. Writing three things you did, however small, shows busy women the progress they tend to overlook.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#busybutnoprogress #dailylog #noticewins #eveningreflection #overwhelm"
+  },
+  {
+   "slot": 1,
+   "type": "reel",
+   "time_et": "08:30",
+   "time_utc": "2026-11-09T13:30",
+   "post_id": "2026-11-09-r01",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-039",
+    "2026-10-22-S2-035",
+    "2026-10-22-S3-028",
+    "2026-10-22-S4-032",
+    "2026-10-22-S5-042"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-r01.mp4",
+   "caption": "If you lower your voice to avoid attention, practice one sentence at full volume.\n\nA quiet voice can be a habit rather than a limit. Saying one sentence at a steady, clear volume at home first helps women feel comfortable being heard when it counts.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#speaklouder #voiceconfidence #practicespeaking #assertivecommunication #confidence"
+  },
+  {
+   "slot": 2,
+   "type": "carousel",
+   "time_et": "10:00",
+   "time_utc": "2026-11-09T15:00",
+   "post_id": "2026-11-09-c02",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-062",
+    "2026-10-22-S2-043",
+    "2026-10-22-S3-049",
+    "2026-10-22-S4-056",
+    "2026-10-22-S5-043"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c02/1_2026-10-22-S1-062.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c02/2_2026-10-22-S2-043.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c02/3_2026-10-22-S3-049.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c02/4_2026-10-22-S4-056.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c02/5_2026-10-22-S5-043.jpg"
+    }
+   ],
+   "caption": "If you quit the moment it gets boring, pair the task with something you enjoy. Swipe →\n\nBoredom is a normal part of repeating anything. Pairing a habit with music or a favorite drink keeps it pleasant enough to continue past the stage where most plans fade.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#stayconsistent #habitpairing #beatboredom #keepgoing #goalsetting"
+  },
+  {
+   "slot": 3,
+   "type": "single",
+   "time_et": "11:30",
+   "time_utc": "2026-11-09T16:30",
+   "post_id": "2026-11-09-s01",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-041"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-s01_2026-10-22-S1-041.jpg",
+   "caption": "If you rehearse your argument but never say it, say the first line out loud today.\n\nRehearsing in your head can become a substitute for speaking. Voicing only the first line lets quiet women start the conversation and discover that the rest often flows once it begins.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#difficultconversation #saywhatyoumean #speakyourtruth #communicationcourage #confidence"
+  },
+  {
+   "slot": 4,
+   "type": "reel",
+   "time_et": "13:00",
+   "time_utc": "2026-11-09T18:00",
+   "post_id": "2026-11-09-r02",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-087",
+    "2026-10-22-S2-075",
+    "2026-10-22-S3-084",
+    "2026-10-22-S4-100",
+    "2026-10-22-S5-044"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-r02.mp4",
+   "caption": "If you want to work fewer hours, draft a proposal with clear results.\n\nA reduced schedule is easier to approve when it is framed around outcomes. Writing what you will deliver helps women who want more balance make a practical case instead of a plea.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#reducedhours #flexibleworkproposal #worklifebalance #negotiateschedule #womencareer"
+  },
+  {
+   "slot": 5,
+   "type": "carousel",
+   "time_et": "14:30",
+   "time_utc": "2026-11-09T19:30",
+   "post_id": "2026-11-09-c03",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-019",
+    "2026-10-22-S2-006",
+    "2026-10-22-S3-001",
+    "2026-10-23-S4-016",
+    "2026-10-22-S5-053"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c03/1_2026-10-22-S1-019.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c03/2_2026-10-22-S2-006.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c03/3_2026-10-22-S3-001.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c03/4_2026-10-23-S4-016.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c03/5_2026-10-22-S5-053.jpg"
+    }
+   ],
+   "caption": "If you overbook your lunch break, take ten minutes away from your desk. Swipe →\n\nWorking through lunch rarely buys the time you hope for. A ten-minute walk or quiet sit gives your mind a reset that makes the afternoon feel less heavy.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#lunchbreakreset #middaypause #deskbreak #afternoonenergy #overwhelm"
+  },
+  {
+   "slot": 6,
+   "type": "reel",
+   "time_et": "16:00",
+   "time_utc": "2026-11-09T21:00",
+   "post_id": "2026-11-09-r03",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-040",
+    "2026-10-22-S2-032",
+    "2026-10-22-S3-027",
+    "2026-10-22-S4-034",
+    "2026-10-22-S5-046"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-r03.mp4",
+   "caption": "If you downplay your degree or skills, list three things you can actually do.\n\nSkills fade from view when you only compare yourself with experts. A short list of what you can really do gives women who sell themselves short a grounded view of their value.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#knowyourworth #listyourskills #selfadvocacy #underratedskills #confidence"
+  },
+  {
+   "slot": 7,
+   "type": "carousel",
+   "time_et": "17:30",
+   "time_utc": "2026-11-09T22:30",
+   "post_id": "2026-11-09-c04",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-063",
+    "2026-10-22-S2-046",
+    "2026-10-22-S3-062",
+    "2026-10-22-S4-059",
+    "2026-10-22-S5-047"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c04/1_2026-10-22-S1-063.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c04/2_2026-10-22-S2-046.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c04/3_2026-10-22-S3-062.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c04/4_2026-10-22-S4-059.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-c04/5_2026-10-22-S5-047.jpg"
+    }
+   ],
+   "caption": "If you lose your streak and your confidence, restart today and call it day one again. Swipe →\n\nA broken streak says nothing about your ability. Restarting right away, without a story about failure, shows women who give up after a miss that starting again is the actual skill.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#brokemystreak #restarthabit #missedday #dontquit #goalsetting"
+  },
+  {
+   "slot": 8,
+   "type": "reel",
+   "time_et": "19:00",
+   "time_utc": "2026-11-10T00:00",
+   "post_id": "2026-11-09-r04",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-088",
+    "2026-10-22-S2-084",
+    "2026-10-22-S3-076",
+    "2026-10-22-S4-089",
+    "2026-10-22-S5-048"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-r04.mp4",
+   "caption": "If you hate your commute but love your team, ask about one remote day a week.\n\nYou may not need to choose between people and time. Asking for a trial remote day gives women who feel pulled between the two a simple, low-risk request to try.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#remoteworkrequest #hybridschedule #commutestress #askforflexibility #womencareer"
+  },
+  {
+   "slot": 9,
+   "type": "single",
+   "time_et": "20:30",
+   "time_utc": "2026-11-10T01:30",
+   "post_id": "2026-11-09-s02",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-020"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-09/2026-11-09/2026-11-09-s02_2026-10-22-S1-020.jpg",
+   "caption": "If you say \"I'm swamped\" every day, name the top three, ignore the rest today.\n\nFeeling swamped often means everything has equal weight. Choosing three items for the day gives overloaded women a manageable target and a clear reason to let the rest wait.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#swampedatwork #topthreetasks #dailypriorities #manageworkload #overwhelm"
+  },
+  {
+   "slot": 10,
+   "type": "none",
+   "time_et": "22:00",
+   "time_utc": "2026-11-10T03:00"
+  }
+ ]
+}
