@@ -1,0 +1,260 @@
+{
+ "date": "2026-11-10",
+ "timezone": "America/New_York",
+ "built_utc": "2026-11-10T03:36",
+ "groups_left_after_today": 62,
+ "slots": [
+  {
+   "slot": 0,
+   "type": "carousel",
+   "time_et": "07:00",
+   "time_utc": "2026-11-10T12:00",
+   "post_id": "2026-11-10-c01",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-021",
+    "2026-10-23-S2-011",
+    "2026-10-22-S3-003",
+    "2026-10-23-S4-010",
+    "2026-10-22-S5-057"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c01/1_2026-10-22-S1-021.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c01/2_2026-10-23-S2-011.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c01/3_2026-10-22-S3-003.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c01/4_2026-10-23-S4-010.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c01/5_2026-10-22-S5-057.jpg"
+    }
+   ],
+   "caption": "If you're scared to look at your to-do list, cross out one item that no longer fits. Swipe →\n\nOld tasks that no longer matter make the whole list feel heavy. Deleting just one that has expired shrinks the list and reminds you that you get to decide what stays.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#oldtodolist #decluttertasks #listcleanup #lightenup #overwhelm"
+  },
+  {
+   "slot": 1,
+   "type": "reel",
+   "time_et": "08:30",
+   "time_utc": "2026-11-10T13:30",
+   "post_id": "2026-11-10-r01",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-042",
+    "2026-10-22-S2-092",
+    "2026-10-22-S3-025",
+    "2026-10-22-S4-026",
+    "2026-10-22-S5-050"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-r01.mp4",
+   "caption": "If you cry when you feel misunderstood, take a breath, then say what you meant.\n\nTears are not weakness, but they can make it harder to explain yourself. A pause and one clear sentence help sensitive women feel heard without hiding how much something matters.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#feelmisunderstood #emotionalcommunication #saywhatyoumean #sensitivewoman #confidence"
+  },
+  {
+   "slot": 2,
+   "type": "carousel",
+   "time_et": "10:00",
+   "time_utc": "2026-11-10T15:00",
+   "post_id": "2026-11-10-c02",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-064",
+    "2026-10-22-S2-058",
+    "2026-10-22-S3-050",
+    "2026-10-22-S4-065",
+    "2026-10-22-S5-051"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c02/1_2026-10-22-S1-064.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c02/2_2026-10-22-S2-058.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c02/3_2026-10-22-S3-050.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c02/4_2026-10-22-S4-065.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c02/5_2026-10-22-S5-051.jpg"
+    }
+   ],
+   "caption": "If you never celebrate finishing things, end each week by naming one finished item. Swipe →\n\nMoving on without a pause makes progress feel invisible. Naming one finished thing each week builds a record of follow-through that busy women can trust on days they doubt themselves.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#celebrateprogress #weeklywins #acknowledgeeffort #motivation #goalsetting"
+  },
+  {
+   "slot": 3,
+   "type": "single",
+   "time_et": "11:30",
+   "time_utc": "2026-11-10T16:30",
+   "post_id": "2026-11-10-s01",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-044"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-s01_2026-10-22-S1-044.jpg",
+   "caption": "If you assume you're bothering people, ask, \"Would I mind this from a friend?\".\n\nThe standards we set for ourselves are often harsher than those we hold for others. Imagining a friend asking helps hesitant women see that reaching out is usually welcome.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#afraidtobotherothers #askforhelp #selftalk #kindnesstoself #confidence"
+  },
+  {
+   "slot": 4,
+   "type": "reel",
+   "time_et": "13:00",
+   "time_utc": "2026-11-10T18:00",
+   "post_id": "2026-11-10-r02",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-089",
+    "2026-10-22-S2-100",
+    "2026-10-22-S3-078",
+    "2026-10-22-S4-068",
+    "2026-10-22-S5-052"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-r02.mp4",
+   "caption": "If you've been a stay-at-home parent for years, write down the skills you used each day.\n\nYears at home build planning, negotiating and managing skills. Listing them in work terms helps women returning to a paid job see what they bring before they write their first resume line.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#returntowork #stayathomemom #resumegap #transferableskills #womencareer"
+  },
+  {
+   "slot": 5,
+   "type": "carousel",
+   "time_et": "14:30",
+   "time_utc": "2026-11-10T19:30",
+   "post_id": "2026-11-10-c03",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-022",
+    "2026-10-22-S2-009",
+    "2026-10-22-S3-018",
+    "2026-10-22-S4-006",
+    "2026-10-22-S5-061"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c03/1_2026-10-22-S1-022.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c03/2_2026-10-22-S2-009.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c03/3_2026-10-22-S3-018.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c03/4_2026-10-22-S4-006.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c03/5_2026-10-22-S5-061.jpg"
+    }
+   ],
+   "caption": "If a free hour makes you anxious, decide in advance how to use it. Swipe →\n\nUnplanned time can bring a rush of guilt about what you should be doing. A small plan for the free hour, even just rest, lets you enjoy it rather than argue with yourself.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#freetimeanxiety #planrest #guiltaboutrest #enjoydowntime #overwhelm"
+  },
+  {
+   "slot": 6,
+   "type": "reel",
+   "time_et": "16:00",
+   "time_utc": "2026-11-10T21:00",
+   "post_id": "2026-11-10-r03",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-043",
+    "2026-10-22-S2-038",
+    "2026-10-22-S3-043",
+    "2026-10-22-S4-030",
+    "2026-10-22-S5-054"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-r03.mp4",
+   "caption": "If you copy others' opinions to fit in, share one view that's truly yours.\n\nAgreeing by default keeps things smooth but leaves you unseen. Offering one real opinion, gently, helps women who keep the peace practice being honest and still be liked.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#stoppeoplepleasing #ownyouropinion #beauthentic #confidencehabits #confidence"
+  },
+  {
+   "slot": 7,
+   "type": "carousel",
+   "time_et": "17:30",
+   "time_utc": "2026-11-10T22:30",
+   "post_id": "2026-11-10-c04",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-065",
+    "2026-10-22-S2-053",
+    "2026-10-22-S3-048",
+    "2026-10-22-S4-047",
+    "2026-10-22-S5-055"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c04/1_2026-10-22-S1-065.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c04/2_2026-10-22-S2-053.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c04/3_2026-10-22-S3-048.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c04/4_2026-10-22-S4-047.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-c04/5_2026-10-22-S5-055.jpg"
+    }
+   ],
+   "caption": "If you want to write but never sit down, write one sentence at the same time daily. Swipe →\n\nA single sentence lowers the bar so the habit can form. Pairing it with a fixed daily time helps women with creative dreams show up regularly instead of waiting for inspiration to arrive.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#startwriting #dailywritinghabit #creativegoals #showupdaily #goalsetting"
+  },
+  {
+   "slot": 8,
+   "type": "reel",
+   "time_et": "19:00",
+   "time_utc": "2026-11-11T00:00",
+   "post_id": "2026-11-10-r04",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-090",
+    "2026-10-22-S2-076",
+    "2026-10-22-S3-077",
+    "2026-10-22-S4-071",
+    "2026-10-22-S5-056"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-r04.mp4",
+   "caption": "If you're thinking about teaching others, offer one practice session to a friend first.\n\nTrying your skill on someone you trust lowers the stakes. A single practice session shows women exploring a new role what they enjoy and what to learn next before committing time or money.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#startteaching #tryanewpath #practicerun #careerexperiment #womencareer"
+  },
+  {
+   "slot": 9,
+   "type": "single",
+   "time_et": "20:30",
+   "time_utc": "2026-11-11T01:30",
+   "post_id": "2026-11-10-s02",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-023"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-10/2026-11-10/2026-11-10-s02_2026-10-22-S1-023.jpg",
+   "caption": "If you feel responsible for everyone's mood, remind yourself, \"Their feelings are theirs\".\n\nCarrying other people's emotions is exhausting. Repeating that their feelings are theirs helps caring women keep their empathy while handing back a weight that was never theirs to hold.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#emotionallabor #empathyoverload #boundarieswithfamily #peoplepleaser #overwhelm"
+  },
+  {
+   "slot": 10,
+   "type": "none",
+   "time_et": "22:00",
+   "time_utc": "2026-11-11T03:00"
+  }
+ ]
+}
