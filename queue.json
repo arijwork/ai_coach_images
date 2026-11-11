@@ -1,0 +1,260 @@
+{
+ "date": "2026-11-11",
+ "timezone": "America/New_York",
+ "built_utc": "2026-11-11T01:19",
+ "groups_left_after_today": 54,
+ "slots": [
+  {
+   "slot": 0,
+   "type": "carousel",
+   "time_et": "07:00",
+   "time_utc": "2026-11-11T12:00",
+   "post_id": "2026-11-11-c01",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-024",
+    "2026-10-22-S2-020",
+    "2026-10-23-S3-007",
+    "2026-10-22-S4-012",
+    "2026-10-22-S5-065"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c01/1_2026-10-22-S1-024.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c01/2_2026-10-22-S2-020.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c01/3_2026-10-23-S3-007.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c01/4_2026-10-22-S4-012.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c01/5_2026-10-22-S5-065.jpg"
+    }
+   ],
+   "caption": "If you check the news every hour, choose two times a day, then log off. Swipe →\n\nConstant updates keep your mind on high alert without helping you act. Two planned check-ins let you stay informed without feeling swept up in a stream that never stops.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#newsoverload #limitscrolling #calmyourmind #digitaldetox #overwhelm"
+  },
+  {
+   "slot": 1,
+   "type": "reel",
+   "time_et": "08:30",
+   "time_utc": "2026-11-11T13:30",
+   "post_id": "2026-11-11-r01",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-045",
+    "2026-10-22-S2-093",
+    "2026-10-22-S3-034",
+    "2026-10-22-S4-033",
+    "2026-10-22-S5-058"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-r01.mp4",
+   "caption": "If you struggle to introduce yourself, write a two-sentence intro and keep it.\n\nNot knowing what to say makes meeting people harder than it needs to be. A short intro you have practiced removes the scramble and gives you a steady place to begin a conversation.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#introduceyourself #networkingintro #socialskills #firstimpressions #confidence"
+  },
+  {
+   "slot": 2,
+   "type": "carousel",
+   "time_et": "10:00",
+   "time_utc": "2026-11-11T15:00",
+   "post_id": "2026-11-11-c02",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-066",
+    "2026-10-22-S2-097",
+    "2026-10-22-S3-055",
+    "2026-10-22-S4-057",
+    "2026-10-22-S5-059"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c02/1_2026-10-22-S1-066.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c02/2_2026-10-22-S2-097.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c02/3_2026-10-22-S3-055.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c02/4_2026-10-22-S4-057.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c02/5_2026-10-22-S5-059.jpg"
+    }
+   ],
+   "caption": "If you aim for perfect and end up with nothing, ship a rough version by Friday. Swipe →\n\nPerfect plans delay finished work. Setting a Friday deadline for a rough version helps perfectionists get something real out and learn more from an imperfect result than from endless polishing.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#perfectionism #shipit #doneisbetter #finishprojects #goalsetting"
+  },
+  {
+   "slot": 3,
+   "type": "single",
+   "time_et": "11:30",
+   "time_utc": "2026-11-11T16:30",
+   "post_id": "2026-11-11-s01",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-047"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-s01_2026-10-22-S1-047.jpg",
+   "caption": "If mistakes ruin your whole day, say, \"That's one thing, not everything\".\n\nA single slip can start to feel like proof you're failing. Reframing it as one event keeps a small mistake in proportion and helps perfectionists get back on track more quickly.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#bouncebackfrommistakes #perfectionism #resilience #stopbeatingyourselfup #confidence"
+  },
+  {
+   "slot": 4,
+   "type": "reel",
+   "time_et": "13:00",
+   "time_utc": "2026-11-11T18:00",
+   "post_id": "2026-11-11-r02",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-091",
+    "2026-10-22-S2-065",
+    "2026-10-22-S3-099",
+    "2026-10-22-S4-081",
+    "2026-10-22-S5-060"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-r02.mp4",
+   "caption": "If you took a pay cut to follow your passion, track your cash flow for one month.\n\nFollowing a dream often changes the numbers. Seeing your income and spending side by side helps women who made a brave move stay calm and make plans from facts, not worry.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#passionoverpay #budgetafterpaycut #careerpivotmoney #moneyclarity #womencareer"
+  },
+  {
+   "slot": 5,
+   "type": "carousel",
+   "time_et": "14:30",
+   "time_utc": "2026-11-11T19:30",
+   "post_id": "2026-11-11-c03",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-22-S1-025",
+    "2026-10-22-S2-002",
+    "2026-10-23-S3-011",
+    "2026-10-23-S4-013",
+    "2026-10-22-S5-069"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c03/1_2026-10-22-S1-025.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c03/2_2026-10-22-S2-002.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c03/3_2026-10-23-S3-011.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c03/4_2026-10-23-S4-013.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c03/5_2026-10-22-S5-069.jpg"
+    }
+   ],
+   "caption": "If you keep your phone next to your bed, charge it across the room tonight. Swipe →\n\nA phone within reach invites late scrolling and early stress. Moving it across the room is a small change that helps women with busy minds protect the first and last moments of the day.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#phoneawayatnight #bettersleephabits #bedroomboundaries #morningpeace #overwhelm"
+  },
+  {
+   "slot": 6,
+   "type": "reel",
+   "time_et": "16:00",
+   "time_utc": "2026-11-11T21:00",
+   "post_id": "2026-11-11-r03",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-22-S1-046",
+    "2026-10-22-S2-028",
+    "2026-10-22-S3-035",
+    "2026-10-22-S4-031",
+    "2026-10-22-S5-062"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-r03.mp4",
+   "caption": "If you freeze when someone says \"any questions?\", prepare one question before every meeting.\n\nHaving a question ready makes speaking up almost automatic. It also helps women who go quiet in groups show interest and ease into the conversation before nerves can take over.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#meetingconfidence #preparequestions #quietinmeetings #workplacecommunication #confidence"
+  },
+  {
+   "slot": 7,
+   "type": "carousel",
+   "time_et": "17:30",
+   "time_utc": "2026-11-11T22:30",
+   "post_id": "2026-11-11-c04",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-067",
+    "2026-10-22-S2-044",
+    "2026-10-22-S3-058",
+    "2026-10-22-S4-058",
+    "2026-10-22-S5-063"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c04/1_2026-10-22-S1-067.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c04/2_2026-10-22-S2-044.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c04/3_2026-10-22-S3-058.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c04/4_2026-10-22-S4-058.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-c04/5_2026-10-22-S5-063.jpg"
+    }
+   ],
+   "caption": "If your inbox beats your priorities, do your top task before opening it. Swipe →\n\nStarting with email lets everyone else's agenda set yours. Doing your top task first gives goal-driven women a head start on what matters before the day's requests arrive.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#prioritizetoptask #morningfocus #emaillast #deepwork #goalsetting"
+  },
+  {
+   "slot": 8,
+   "type": "reel",
+   "time_et": "19:00",
+   "time_utc": "2026-11-12T00:00",
+   "post_id": "2026-11-11-r04",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-092",
+    "2026-10-22-S2-066",
+    "2026-10-22-S3-073",
+    "2026-10-22-S4-074",
+    "2026-10-22-S5-064"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-r04.mp4",
+   "caption": "If your boss takes credit for your work, put your name on updates and deliverables.\n\nIt's frustrating when others take credit. Making sure your name appears on summaries and shared work helps women claim their contributions in a professional, factual way.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#bosstakescredit #claimyourwork #workplacecredit #speakupatwork #womencareer"
+  },
+  {
+   "slot": 9,
+   "type": "single",
+   "time_et": "20:30",
+   "time_utc": "2026-11-12T01:30",
+   "post_id": "2026-11-11-s02",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-068"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-11/2026-11-11/2026-11-11-s02_2026-10-22-S1-068.jpg",
+   "caption": "If you forget why you started, write your reason on a sticky note.\n\nMotivation drifts when the reason fades. A short note with your why, placed where you'll see it, reconnects women who feel lost mid-goal to what made them begin in the first place.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#rememberyourwhy #staymotivated #goalmotivation #stickynotereminder #goalsetting"
+  },
+  {
+   "slot": 10,
+   "type": "none",
+   "time_et": "22:00",
+   "time_utc": "2026-11-12T03:00"
+  }
+ ]
+}
