@@ -1,0 +1,260 @@
+{
+ "date": "2026-11-13",
+ "timezone": "America/New_York",
+ "built_utc": "2026-11-13T01:53",
+ "groups_left_after_today": 38,
+ "slots": [
+  {
+   "slot": 0,
+   "type": "carousel",
+   "time_et": "07:00",
+   "time_utc": "2026-11-13T12:00",
+   "post_id": "2026-11-13-c01",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-23-S1-003",
+    "2026-10-23-S2-001",
+    "2026-10-23-S3-001",
+    "2026-10-22-S4-003",
+    "2026-10-22-S5-081"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c01/1_2026-10-23-S1-003.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c01/2_2026-10-23-S2-001.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c01/3_2026-10-23-S3-001.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c01/4_2026-10-22-S4-003.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c01/5_2026-10-22-S5-081.jpg"
+    }
+   ],
+   "caption": "If your list grows faster than you cross off, cap today's list at three items. Swipe →\n\nA list that only expands feels like a loss before you begin. Limiting today to three real items gives an overloaded mind a finish line it can actually reach.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#endlesstodolist #threeitemlist #dailypriorities #overwhelmedwoman #overwhelm"
+  },
+  {
+   "slot": 1,
+   "type": "reel",
+   "time_et": "08:30",
+   "time_utc": "2026-11-13T13:30",
+   "post_id": "2026-11-13-r01",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-23-S1-026",
+    "2026-10-22-S2-039",
+    "2026-10-22-S3-092",
+    "2026-10-22-S4-035",
+    "2026-10-22-S5-074"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-r01.mp4",
+   "caption": "If you shrink before speaking up, say your point in one short sentence.\n\nHesitation grows when you plan a long speech. One short sentence is easier to say and gives quiet women a way to be heard without feeling exposed.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#speakupatwork #fearofspeaking #confidenceinmeetings #shortandclear #confidence"
+  },
+  {
+   "slot": 2,
+   "type": "carousel",
+   "time_et": "10:00",
+   "time_utc": "2026-11-13T15:00",
+   "post_id": "2026-11-13-c02",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-072",
+    "2026-10-22-S2-056",
+    "2026-10-22-S3-051",
+    "2026-10-22-S4-053",
+    "2026-10-22-S5-075"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c02/1_2026-10-22-S1-072.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c02/2_2026-10-22-S2-056.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c02/3_2026-10-22-S3-051.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c02/4_2026-10-22-S4-053.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c02/5_2026-10-22-S5-075.jpg"
+    }
+   ],
+   "caption": "If your plan needs a perfect week, redesign it for your busiest day. Swipe →\n\nPlans built for ideal days fail on real ones. Designing around your most hectic day produces a routine that survives, which suits women who keep starting over after life interrupts.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#realisticplanning #busydayroutine #planforchaos #sustainablehabits #goalsetting"
+  },
+  {
+   "slot": 3,
+   "type": "single",
+   "time_et": "11:30",
+   "time_utc": "2026-11-13T16:30",
+   "post_id": "2026-11-13-s01",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-23-S1-005"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-s01_2026-10-23-S1-005.jpg",
+   "caption": "If you keep many tabs open for later, save them to one note and close them.\n\nOpen tabs behave like unfinished promises. Moving them into a single list clears the screen and the mind, and nothing you wanted gets lost.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#toomanytabs #digitalclutter #clearyourmind #saveforlater #overwhelm"
+  },
+  {
+   "slot": 4,
+   "type": "reel",
+   "time_et": "13:00",
+   "time_utc": "2026-11-13T18:00",
+   "post_id": "2026-11-13-r02",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-095",
+    "2026-10-22-S2-082",
+    "2026-10-22-S3-081",
+    "2026-10-22-S4-088",
+    "2026-10-22-S5-076"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-r02.mp4",
+   "caption": "If you're heading back to the office, plan your first week's routine in advance.\n\nChanges in routine can feel jarring. Laying out your commute, meals and boundaries before the first day helps women settle back in without feeling thrown off balance.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#returntooffice #hybridworktransition #newroutine #workplacechange #womencareer"
+  },
+  {
+   "slot": 5,
+   "type": "carousel",
+   "time_et": "14:30",
+   "time_utc": "2026-11-13T19:30",
+   "post_id": "2026-11-13-c03",
+   "board": "Overwhelmed & Overthinking",
+   "pin_ids": [
+    "2026-10-23-S1-004",
+    "2026-10-22-S2-001",
+    "2026-10-23-S3-003",
+    "2026-10-23-S4-003",
+    "2026-10-22-S5-085"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c03/1_2026-10-23-S1-004.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c03/2_2026-10-22-S2-001.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c03/3_2026-10-23-S3-003.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c03/4_2026-10-23-S4-003.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c03/5_2026-10-22-S5-085.jpg"
+    }
+   ],
+   "caption": "If Sundays feel like homework, plan one thing you look forward to. Swipe →\n\nDread can hide the whole weekend's rest. Adding one small treat to Sunday evening gives women a reason to relax instead of rehearsing Monday.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#sundaydread #sundayreset #weekendrest #sundaynight #overwhelm"
+  },
+  {
+   "slot": 6,
+   "type": "reel",
+   "time_et": "16:00",
+   "time_utc": "2026-11-13T21:00",
+   "post_id": "2026-11-13-r03",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-23-S1-027",
+    "2026-10-22-S2-041",
+    "2026-10-22-S3-039",
+    "2026-10-22-S4-046",
+    "2026-10-22-S5-078"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-r03.mp4",
+   "caption": "If you wait for permission to start, give yourself the green light today.\n\nMany capable women wait for someone to say they are ready. Choosing to start before approval is a small act of trust in yourself that builds with practice.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#waitingforpermission #startbeforeready #selftrust #confidencebuilding #confidence"
+  },
+  {
+   "slot": 7,
+   "type": "carousel",
+   "time_et": "17:30",
+   "time_utc": "2026-11-13T22:30",
+   "post_id": "2026-11-13-c04",
+   "board": "Goals & Habits",
+   "pin_ids": [
+    "2026-10-22-S1-073",
+    "2026-10-22-S2-057",
+    "2026-10-22-S3-096",
+    "2026-10-22-S4-064",
+    "2026-10-22-S5-079"
+   ],
+   "files": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c04/1_2026-10-22-S1-073.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c04/2_2026-10-22-S2-057.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c04/3_2026-10-22-S3-096.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c04/4_2026-10-22-S4-064.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-c04/5_2026-10-22-S5-079.jpg"
+    }
+   ],
+   "caption": "If you reward yourself with more work, pick a real reward you'd look forward to. Swipe →\n\nPiling on tasks after finishing teaches your brain that success equals more work. A reward you genuinely enjoy gives women who never pause a reason to look forward to follow-through.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#rewardyourself #positivereinforcement #habitrewards #enjoyprogress #goalsetting"
+  },
+  {
+   "slot": 8,
+   "type": "reel",
+   "time_et": "19:00",
+   "time_utc": "2026-11-14T00:00",
+   "post_id": "2026-11-13-r04",
+   "board": "Women's Career & Life Changes",
+   "pin_ids": [
+    "2026-10-22-S1-096",
+    "2026-10-22-S2-071",
+    "2026-10-22-S3-070",
+    "2026-10-22-S4-078",
+    "2026-10-22-S5-080"
+   ],
+   "video_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-r04.mp4",
+   "caption": "If you're burning out in a helping profession, schedule one thing that refills you daily.\n\nCaring jobs ask a lot. A small daily act, like a quiet coffee or a short walk, helps women who give all day protect enough energy to keep going without running on empty.\n\nSave this for the next time you need it. The 30-day workbook is at the link in bio.\n\n#helpingprofessionburnout #caregiverselfcare #rechargedaily #nursesteachers #womencareer"
+  },
+  {
+   "slot": 9,
+   "type": "single",
+   "time_et": "20:30",
+   "time_utc": "2026-11-14T01:30",
+   "post_id": "2026-11-13-s02",
+   "board": "Confidence & Self-Doubt",
+   "pin_ids": [
+    "2026-10-23-S1-028"
+   ],
+   "image_url": "https://raw.githubusercontent.com/arijwork/ai_coach_images/ig-2026-11-13/2026-11-13/2026-11-13-s02_2026-10-23-S1-028.jpg",
+   "caption": "If you assume you'll be judged, ask what evidence you actually have.\n\nFear of judgment often runs on guesses. Checking for real evidence helps self-conscious women see how much of the criticism lives only in their heads.\n\nSave this for the next time you need it. More small, practical resets: link in bio.\n\n#fearofjudgment #selfconscious #socialanxietytips #checkthefacts #confidence"
+  },
+  {
+   "slot": 10,
+   "type": "none",
+   "time_et": "22:00",
+   "time_utc": "2026-11-14T03:00"
+  }
+ ]
+}
